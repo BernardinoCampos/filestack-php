@@ -1,5 +1,5 @@
 {
-    "name": "filestack/filestack-php",
+    "name": "bernardinocampos/filestack-php",
     "description": "A Filestack library for PHP",
     "license": "Apache-2.0",
     "require": {
